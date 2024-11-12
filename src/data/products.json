@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Custom Product 1",
+      "price": 29.99,
+      "description": "This is a great custom product",
+      "image": "/images/img1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Custom Product 2",
+      "price": 49.99,
+      "description": "This is another awesome product",
+      "image": "/images/img2.jpg"
+    }
+  ]
+  

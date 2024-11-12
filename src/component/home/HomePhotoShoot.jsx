@@ -1,6 +1,6 @@
 import React from "react";
-import photo1 from "../../assets/images/home-photo-1.webp";
-import photo2 from "../..//assets/images/home-photo-2.webp";
+import photo1 from "../../assets/images/img1.jpg";
+import photo2 from "../..//assets/images/img2.jpg";
 import photo3 from "../../assets/images/home-photo-3.webp";
 
 import "./HomePhotoShoot.css";
