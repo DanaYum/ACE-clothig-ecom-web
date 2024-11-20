@@ -17,7 +17,7 @@ function ProductView({ productData }) {
       </div>
       <div className="product-info">
         <h2 className="product-name">{productData.title}</h2>
-        <p className="product-price">₹{productData.price}</p>
+        <p className="product-price">${productData.price}</p>
         <p className="product-description">{productData.description}</p>
 
         <button className="product-cart_btn" onClick={handleAddToCart}>
